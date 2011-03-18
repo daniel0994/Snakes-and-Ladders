@@ -7,6 +7,3 @@ Usage
 -----
 
 Just install it and play.  It probably won't do much right now.
-
-
-EDIT: Testing. (Sebastian)
